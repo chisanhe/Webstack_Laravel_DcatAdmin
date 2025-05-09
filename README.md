@@ -62,8 +62,10 @@ location / {
     - PHP > 7.4
   
 ### 四、参考的 git 项目，感谢：
-    - [Webstack网址导航](https://github.com/WebStackPage/WebStackPage.github.io)
-    - [WebStack-Laravel](https://github.com/ReoTok/WebStack-Laravel)
+[Webstack网址导航](https://github.com/WebStackPage/WebStackPage.github.io) \
+
+
+[WebStack-Laravel（laravel5+，laravel admin）](https://github.com/ReoTok/WebStack-Laravel)
 
 ### 五、项目截图
 #### 1. 前台
