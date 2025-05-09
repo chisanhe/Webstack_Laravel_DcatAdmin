@@ -18,7 +18,6 @@ $ composer install
 
 4. 环境变量文件.env 修改
 ```bash
-APP_URL=http://your-domain.com
 ...
 # 数据库配置修改
 DB_HOST=127.0.0.1
@@ -31,7 +30,7 @@ DB_PASSWORD=
 ```bash
 php artisan key:generate
 ```
-6.web服务器设置项目 public 目录为根目录
+6.web服务器设置项目 public 目录为根目录，env中修改项目域名APP_URL, 否则后台图片显示会有问题。
 
 7. nginx 需要设置伪静态
 ```nginx
